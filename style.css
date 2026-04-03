@@ -228,6 +228,9 @@ iframe {
     width: 100%;
     border: none;
     min-height: 800px;
+    /* hide tuika */
+    display:block;
+    height: 1000px !important;
 }
 
 /* フッター */
