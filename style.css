@@ -169,13 +169,14 @@ section:nth-child(even) {
     border-radius: 4px;
     margin-bottom: 15px;
 }
-/*  photo_book  */
+/*  photo_book  
 .photo_book {
     display: flex;
 }
 .photo_book img {
     width: 200px;
 }
+*/
 /* Activitiesセクション (SNSリンク) */
 .activities-content {
     text-align: center;
