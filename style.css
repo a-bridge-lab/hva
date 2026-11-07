@@ -173,10 +173,11 @@ section:nth-child(even) {
 .photo_book {
     display: flex;
 }
+*/
 .photo_book a {
     width: 400px;
 }
-*/
+
 /* Activitiesセクション (SNSリンク) */
 .activities-content {
     text-align: center;
