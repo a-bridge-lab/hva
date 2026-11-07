@@ -173,8 +173,8 @@ section:nth-child(even) {
 .photo_book {
     display: flex;
 }
-.photo_book img {
-    width: 200px;
+.photo_book a {
+    width: 400px;
 }
 */
 /* Activitiesセクション (SNSリンク) */
