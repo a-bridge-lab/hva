@@ -174,7 +174,11 @@ section:nth-child(even) {
     display: flex;
 }
 */
-.photo_book a {
+.photo_book {
+    display: flex;
+    justify-content: center;
+}
+.photo_book img {
     width: 400px;
 }
 
