@@ -179,10 +179,21 @@ section:nth-child(even) {
     justify-content: center;
 }
 .photo_book img {
-    width: 400px;
+    width: 300px;
 }
 
 /* Activitiesセクション (SNSリンク) */
+.acitivities-items{
+    display: grid;
+    grid-template-columns:repeat(auto-fit, minmax(400px,1fr)) ;
+    gap:16px;
+}
+.activities-item{
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+.activities-item img{
+    vertical-align: bottom;
+}
 .activities-content {
     text-align: center;
 }
